@@ -307,6 +307,7 @@
 
   html,body{
     overflow-x: hidden;
+    
   }
 
   .banner-img{
@@ -347,5 +348,18 @@
     width: 300px;
     cursor: pointer;
 }
+
+.footer h5{
+  text-align: center;
+}
+
+.app-flex{
+  display: flex;
+  justify-content: center;
+}
+.app-flex img{
+  width: 150px;
+}
+
 
 }
